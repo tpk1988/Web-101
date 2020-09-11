@@ -1,0 +1,290 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.brand {
+    width: 65%;
+    margin-left: 50px
+}
+.blue {
+    background: blue;
+    color: white;
+}
+#container1 a:any-link {
+    color: blue;
+    font-size: 25px;
+}
+.navbar-toggler {
+    border: none;
+}
+#navbarSupportedContent {
+    
+    margin-left: 80px;
+}
+.nav_search {
+    position: absolute;
+    top: 7px;
+    right: 10%;
+    font-size: 17px;
+    color: black
+
+}
+
+#container1 {
+    width: 80%;
+    position: relative;
+}
+.fabout {
+    font-size: 1.5rem;
+
+}
+.small_font {
+    font-size: 0.9rem;
+    margin-top: 20px;
+}
+
+.black{ 
+    background: black;
+}
+.section2 {
+    width: 92%;
+    margin: auto;
+    padding: 0px;
+    
+}
+
+
+.gray {
+    background: gray;
+}
+
+
+.spanhor{
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+.news1 {
+    border: 1px solid gray;
+    padding: 0px;
+    height: auto;
+    
+    
+}
+
+.hor {
+    width: 35px;
+    border: solid 1.5px blue;
+    vertical-align: middle;
+    margin: 12px 10px 0px 0px ;
+    padding: 0px;
+    background: blue;
+
+}
+#horb {
+    margin-left: 35vw;
+}
+
+.about {
+    height: 20px;
+    margin-bottom: 0px;
+    width: auto;
+}
+.ourbusiness {
+    height: auto;
+}
+
+.ourbusiness2 {
+    height: auto;
+    background-image: url(https://i.imgur.com/YE6srBq.jpg);
+    background-position: center;
+    background-size: 220% 100%;
+    padding: 12vw 0vw 7vw 3vw;
+    
+}
+.busbox {
+
+    padding-left: 26vw;
+    font-size: 19px;
+    margin-top: 5vw;
+    text-align: center;
+    color: white;
+}
+.busbox1 {
+    width: 50%;
+    margin: auto;
+}
+.busbox1 a {
+    
+    color: white;
+    font-size: 27px;
+}
+.busbox1 a {
+    color: white;
+    font-size: 27px;
+}
+.section3 {
+    margin-top: 10px;
+}
+.small_icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 10vw 0vw 0vw 8vw;
+    
+}
+
+#newscontainer {
+    width: 92%;
+    margin: auto
+}
+.input1 {
+    margin-right: 10px;
+    
+}
+.news3 {
+    width: 100%;
+}
+#part3 {
+    height: auto;
+}
+
+.white {
+    color: white;
+}
+.black {
+    background: black;
+    color: white
+}
+.final {
+    border: solid 2px transparent;
+    border-bottom-color: white
+}
+.part5 {
+    margin-bottom: 70px;
+    margin-top: 20px;
+    padding: 0px;
+
+}
+.maps{
+    position: relative;
+    top: 50px;
+}
+.submitx {
+    position: relative;
+    top: -30vw;
+}
+.foot {
+    margin-top: 20px;
+    padding-top: 50px;
+    background: black;
+}
+
+footer a:any-link {
+    color: white
+}
+
+#inputend {
+    background: black;
+    color: white;
+    border: none;
+}
+.newsbox {
+    margin-top: 5vw;
+    padding: 0px;
+}
+#newscontainer a:any-link{
+    color: black;
+}
+.copyright {
+    border: solid 2px transparent;
+    border-top-color: white;
+    vertical-align: middle;
+    padding-top: 10px;
+    font-size: 1.5rem;
+}
+.contactbox {
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+}
+#exampleFormControlTextarea1 {
+    border: 1px solid gray;
+    
+}
+
+#News a:any-link {
+    color: black;
+}
+/*About CSS*/
+.ahor {
+    margin: auto;
+    padding: auto;
+    width:35px;
+    background: blue;
+    border: 2px solid blue;
+}
+
+table td  { 
+      list-style: none;
+      display: list-item; 
+      padding-left: 0; 
+      line-height: 45px;
+}
+td a:any-link{
+    color: yellow;
+}
+.aimg {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.ax2 {
+    margin: 0px;
+    padding: 0px;
+    }
+/*Contact CSS*/
+.conform li {
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 12px;
+}
+.conform input {
+    margin-top: 12px;
+}
+.npost {
+    border-bottom: solid 1px gray;
+    height: 150px;
+    
+}
+
+/*NEWS CSS*/
+.nimg {
+    height: 80%;
+    background-position: center;
+    background-size: 100% 150%;
+    background-repeat: no-repeat
+    
+}
+.nboxs {
+    width: 100%;
+    border: solid 1px gray;
+    margin-bottom: 15px;
+
+}
+.nboxs a:any-link {
+    color: black;
+}
+.nhead {
+    height: 40px;
+    padding-top: 8px;
+    margin-bottom: 15px;
+}
+
+/*Our Business CSS*/
+.oedu {
+    position: relative;
+    left: 50%;
+}

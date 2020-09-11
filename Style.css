@@ -1,0 +1,381 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+.bigx {
+    margin: 0px;
+    padding: 0px;
+    background: blue;
+    justify-content: center;
+    justify-items: center;
+}
+#bignav {
+    background: blue;
+    height: 70px;
+
+
+}
+#bignav a:any-link{
+    color: white;
+    height: 100%;
+    
+}
+
+.navbar-brand{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.brand {
+    width: 55%;
+    margin-left: 80px;
+}
+.navbar-toggler {
+    border: none;
+}
+
+#container1 {
+    width: 100%;
+
+}
+
+.menubar {
+    max-width: 500px;
+    margin-left: 0px;
+}
+#navbarSupportedContent {
+    width: 60px;
+    background: blue;
+    margin: 0px;
+    padding: 0px ;
+    max-width: 450px; 
+    
+}
+.nav-item {
+    height: 70px;
+    padding-top: 10px;
+    vertical-align: center;
+    border: solid 2px transparent;
+}
+.nav-item:hover {
+    border-bottom-color: yellow;
+}
+.nav_search {
+    position: relative;
+    top:auto;
+    margin: 0px;
+    right: 50px;
+    left: 0px;
+    float: left;
+    font-size: 17px;
+    color: white;
+
+}
+
+.section3 {
+    margin-top: 10px;
+    margin: 0px;
+    width: 100%;
+}
+
+.brand {
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+.fabout {
+    font-size: 16px;
+
+}
+
+
+.small_font {
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.blue {
+    background: blue;
+}
+.black{ 
+    background: black;
+}
+
+.blue a{
+    color: white;
+}
+
+
+
+
+
+.gray {
+    background: gray;
+}
+
+.ourbusinesswhite {
+    color: white;
+    margin: 0px 0px 0px 0px;
+    
+}
+.ourbusiness2 {
+
+    height: auto;
+    background-image: url(https://i.imgur.com/YE6srBq.jpg);
+    background-position: center;
+    background-size: 100% 150%;
+    padding: 0vw 0vw 0vw 5vw;
+    height: 300px;
+    
+}
+.busbox1 {
+    width: 100%;
+    margin: 0px !important;
+    padding:  0px !important;
+    font-size: 27px;
+}
+.busbox {
+    box-sizing: border-box;
+    padding-left: 0vw;
+    font-size: 19px;
+    margin-top: 0vw;
+    text-align: left;
+    color: white;
+}
+
+.small_icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 30px 0vw 0vw 8vw;
+    
+}
+.spanhor{
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+.news1 {
+    border: 1px solid gray;
+    padding: 0px;
+    height: auto;
+    margin-right: 2vw;
+    
+    
+}
+#edu_img {
+    height: 55vw;
+    max-height: 400px;
+    padding-top: 50px;
+
+}
+.news2 {
+
+    margin-right: 0vw;
+    
+}
+.newx {
+    margin-right: 0px;
+}
+.news3 {
+    width: 100%;
+    height: 20vw;
+    max-height: 200px;
+}
+
+#newscontainer {
+    
+    margin: auto;
+    padding: 0px;
+}
+#horb {
+    margin-left: 0px;
+}
+
+
+
+.newsbox {
+    margin-top: 20px;
+    padding: 0px;
+}
+.hor {
+    width: 23px;
+    border: solid 1.5px blue;
+    vertical-align: middle;
+    margin: 12px 10px 0px 0px ;
+    padding: 0px;
+    background: blue;
+
+}
+
+
+.about {
+    height: 20px;
+    margin-bottom: 0px;
+    width: auto;
+}
+.ourbusiness {
+    height: auto;
+}
+.small_icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: -20px;
+}
+.contactbox {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+.message {
+    margin-top: 20px;
+    width: 98%;
+    height: 100px;
+}
+.input1 {
+    margin-right: 10px;
+    
+}
+#part3 {
+    height: auto;
+}
+.white {
+    color: white;
+}
+.black {
+    background: black;
+    color: white
+}
+.final {
+    border: solid 2px transparent;
+    border-bottom-color: white
+}
+.maps{
+    position: static;
+    top: 00px;
+}
+.map1 {
+    height: 23vw;
+    max-height: 150px;
+}
+.submitx {
+    position: static;
+    top: 0px;
+}
+.foot {
+    margin-top: -30px;
+}
+footer a:any-link {
+    color: white
+}
+
+#inputend {
+    background: black;
+    color: white;
+    border: none;
+}
+.copyright {
+    border: solid 2px transparent;
+    border-top-color: white;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+#News a:any-link {
+    color: black;
+}
+
+
+
+
+@media screen and (min-width:992px){
+    #newscontainer {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+
+}
+    #edu_img {
+    height: 55vw;
+    max-height: 450px;
+    padding: 50px 0px;
+}
+    .ourbusiness2 {
+
+    height: auto;
+    background-image: url(https://i.imgur.com/YE6srBq.jpg);
+    background-position: center;
+    background-size: 100% 100%;
+    padding: 0vw 0vw 0vw 5vw;
+    height: 300px;
+    
+}
+    #footx {
+    padding-top: 00px;
+}
+#horb {
+    margin-left: 8.5%;
+}
+}
+
+/*About CSS*/
+table td  { 
+      display:table-cell ; 
+       
+      margin-bottom: 15px;
+        line-height: 35px;
+    padding: 10px 0px;
+    height: auto;
+    
+}
+.acol1 {
+    
+    width: 20%;
+    border: solid;
+    
+}
+@media screen and (min-width:992px) {
+.ax2 {
+        padding-left: 20px;
+    }
+}
+
+
+.conli{
+    list-style: disc
+}
+.conmap {
+    height: 50vw;
+    max-height: 200px;
+    margin-bottom: 40px;
+}
+
+.conform li {
+    list-style: disc;
+    padding-left: 0px;
+    margin-top: 12px;
+}
+.conform input {
+    margin-top: 12px;
+}
+
+/*News CSS*/
+.nimg {
+    height: 80%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+    
+}
+.npost {
+    min-height: 180px;
+}
+/*Our Business CSS*/
+@media screen and (min-width:992px) {
+.oconsult {
+        width: 45vw;
+    }
+}
